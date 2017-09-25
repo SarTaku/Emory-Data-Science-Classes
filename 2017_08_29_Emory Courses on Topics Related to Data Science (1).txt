@@ -25,6 +25,7 @@ Emory Courses on Topics Related to Data Science
 * INFO 544 (2) Network Science in Public Health 
 * INFO 550 (2) Software Engineering
 
+* QTM100: http://quantitative.emory.edu/for-undergraduate/courses/qtm100.html
 * QTM120:  Math for quantitative sciences. Part 1 of the QTM courses which are recommended for students who want to brush up on topics in math and computer science before jumping into machine learning. 
 o This course is slated to be offered online in summer 2018. 
 * QTM210: . Part 1 of the QTM courses which are recommended for students who want to brush up on topics in math and computer science before jumping into machine learning. 
